@@ -5,6 +5,7 @@ public class SearchResult implements Comparable<SearchResult> {
 		this.p = p;
 		this.r = r;
 	}
+	// hfbhrfb
 	public PageEntry getPageEntry () {
 		return this.p;
 	}
